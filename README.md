@@ -102,8 +102,6 @@ If impairment is detected, the app privately informs the user — all within sec
 - **Eye coloration analysis** using OpenCV/MediaPipe for detecting redness or fatigue
 - **Vehicle integration** — prevent car ignition if user fails the test
 - **Multi-signal analysis** — combine movement + color indicators
-- **Personalization** — learn user’s baseline to reduce false positives
-- **Healthcare & Fleet Use Cases** — truckers, machine operators, burnout detection
 
 ---
 
