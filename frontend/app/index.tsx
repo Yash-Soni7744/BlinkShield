@@ -13,7 +13,7 @@ export default function HomeScreen() {
     >
       <SafeAreaView style={styles.safeArea}>
         <View style={styles.content}>
-          <Text style={styles.title}>SafeDrive</Text>
+          <Text style={styles.title}>BlinkShield</Text>
           <Text style={styles.subtitle}>
             Test your sobriety before getting behind the wheel
           </Text>
