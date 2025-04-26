@@ -14,13 +14,13 @@ BlinkShield is a mobile app that uses your smartphone’s front-facing camera to
 
 Below are screenshots showcasing the mobile user interface of the application:
 
-![Home Screen](images/screenshot-app-1.png)
+![Home Screen](Images/screenshot-app-1.png)
 *Home Screen: The main landing page of the app*
 
-![Profile Screen](images/screenshot-app-2.png)
+![Profile Screen](Images/screenshot-app-2.png)
 *Unimpaired test result screen*
 
-![Settings Screen](images/screenshot-app-3.png)
+![Settings Screen](Images/screenshot-app-3.png)
 *Impaired test result screen*
 
 ## 🚀 What It Does
