@@ -10,6 +10,19 @@ BlinkShield is a mobile app that uses your smartphone’s front-facing camera to
 
 ---
 
+## Mobile UI Screenshots
+
+Below are screenshots showcasing the mobile user interface of the application:
+
+![Home Screen](images/screenshot-app-1.png)
+*Home Screen: The main landing page of the app*
+
+![Profile Screen](images/screenshot-app-2.png)
+*Unimpaired test result screen*
+
+![Settings Screen](images/screenshot-app-3.png)
+*Impaired test result screen*
+
 ## 🚀 What It Does
 
 BlinkShield presents a moving dot on the screen, which the user follows with their eyes. While this happens, the front-facing camera records a video. This video is then analyzed by an AI backend to detect signs of:
