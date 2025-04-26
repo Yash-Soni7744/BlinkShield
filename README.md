@@ -109,8 +109,7 @@ If impairment is detected, the app privately informs the user — all within sec
 
 ## 💡 Inspiration
 
-> Every day, over 300,000 people in the U.S. drive under the influence. BlinkShield aims to empower users to self-assess their driving fitness, quickly and privately — using the same science-backed principles of the HGN test law enforcement has relied on for years.
-
+>n India, drunk driving remains a critical road safety issue, contributing significantly to the country's high accident rates. In 2022, India recorded 461,312 road accidents, resulting in 153,972 deaths, with drunk driving alone accounting for 10,080 accidents, 4,201 fatalities, and 8,809 injuries, as reported by Policy Circle and LinkedIn. Additionally, a survey by the Community Against Drunken Driving (CADD) in Delhi found that 81.2% of 30,000 respondents admitted to driving under the influence, highlighting the widespread nature of this behavior (NDTV, The Times of India). These alarming statistics emphasize the urgent need for innovative solutions like AI-powered tools to assess and prevent impaired driving, potentially saving thousands of lives annually.
 ---
 
 
